@@ -1,0 +1,2 @@
+TOKEN = "TOKEN"
+ID = YOUR_ID_USER
